@@ -1,0 +1,23 @@
+{
+  "name": "VMCommonLibrary",
+  "version": "0.1.0",
+  "summary": "The summary is meaningful.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/valmanchev/VMCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vmanchev@yahoo.com": "v.manchev@futurist-labs.com"
+  },
+  "source": {
+    "git": "https://github.com/valmanchev/VMCommonLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "VMCommonLibrary/Classes/**/*"
+}

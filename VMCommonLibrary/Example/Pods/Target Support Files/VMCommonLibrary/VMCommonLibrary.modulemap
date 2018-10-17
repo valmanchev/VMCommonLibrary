@@ -1,0 +1,6 @@
+framework module VMCommonLibrary {
+  umbrella header "VMCommonLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

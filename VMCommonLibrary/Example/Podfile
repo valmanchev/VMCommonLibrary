@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VMCommonLibrary_Example' do
+  pod 'VMCommonLibrary', :path => '../'
+
+  target 'VMCommonLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - VMCommonLibrary (0.1.0)
+
+DEPENDENCIES:
+  - VMCommonLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  VMCommonLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VMCommonLibrary: d97674ec4d746f17d113f415127364e6fdd4bb0c
+
+PODFILE CHECKSUM: 2744e0b70518d044dd639499c43350dd385518d1
+
+COCOAPODS: 1.4.0
