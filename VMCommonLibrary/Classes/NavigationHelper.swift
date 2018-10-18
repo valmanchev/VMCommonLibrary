@@ -13,4 +13,8 @@ public class NavigationHelper {
     public static func popoverNavigationController() {
         print("popoverNavigationController")
     }
+    
+    public static func newFunc() {
+        print("newFunc")
+    }
 }
